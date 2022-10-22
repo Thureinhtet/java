@@ -1,0 +1,3 @@
+coke 500
+cafe 700
+potato 500
